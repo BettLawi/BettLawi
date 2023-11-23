@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **on my full-stack project**
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **React, Flask**
 
